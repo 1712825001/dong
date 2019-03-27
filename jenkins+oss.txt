@@ -1,0 +1,17 @@
+12312312312321
+</br>
+
+
+<h1>hello!!!! lizidong!!!<h1>
+
+<h1>hello!!!! xulicong!!!<h1>
+
+<h1>git -->  maven编译  --> 上传  --> 关闭tomcat -> 把jar包删掉（备份），更新新的jar包-->启动tomcat<h1>
+
+AccessKeyID：
+LTAI7Vzw7DT2atX3
+AccessKeySecret：
+kNpPN2xQcgnoq0t9NXs5McOhAXmRUe
+
+ossutil config -e oss-ap-northeast-1-internal.aliyuncs.com -i LTAI7Vzw7DT2atX3 -k kNpPN2xQcgnoq0t9NXs5McOhAXmRUe
+ap-northeast-1
